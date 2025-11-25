@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/VRTemplate/Maps/VR_RIVER_00.umap",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/Boat_Lake.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/Boat_Mat.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/Box.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/Box_Lake.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/Canyon_02_scaled_B03_fixed.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/Canyon_02_scaled_B04.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/DefaultMaterial.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/LAKE_01.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/LAKE_02.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/LAKE_03.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/LAKE_04.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/Material__3.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/Material__3.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/Material__33.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/Material__33.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/Material__43.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/Material__Boat.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/Walnut_brushed_DIF_ALT.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/Walnut_brushed_NORM.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/sdvpbeka_4K_Albedo.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/sdvpbeka_4K_Albedo.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/CANYONS_MISC/sdvpbeka_4K_Normal.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/sdvpbeka_4K_Normal.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/ZBrush_defualt_group.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/Meta/Meta_GM_Base.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/Meta/Meta_Pawn.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/LAKE_MISC/Material__3_Inst00.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/3DMODELS/x_MISC/Envelope_00.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/Meta/Interactable_Envelope.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/Meta/Meta_Pawn_02.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"D:/1 CG/2_UNREAL_PROJECTS/VISITOR/Visitor_v01/Visitor_v01/Content/VRTemplate/Maps/VR_LAKE_00.umap"
+			]
+		}
+	]
+}
